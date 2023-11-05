@@ -22,6 +22,5 @@ public class HelperFunctions {
                 .toString();
 
         return randomStr;
->>>>>>> b05fa4b (Revised final task)
     }
 }
